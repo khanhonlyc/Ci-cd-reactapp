@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://khanhonlyc.github.io/dist/Ci-cd-reactapp",
+  "homepage": "https://khanhonlyc.github.io/Ci-cd-reactapp",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
